@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gestion_productos/1.0.0": {
+        "dependencies": {
+          "GP.BE": "1.0.0"
+        },
+        "runtime": {
+          "Gestion_productos.dll": {}
+        }
+      },
+      "GP.BE/1.0.0": {
+        "runtime": {
+          "GP.BE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestion_productos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GP.BE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

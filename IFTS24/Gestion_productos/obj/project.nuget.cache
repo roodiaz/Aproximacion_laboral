@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9D58nTVQSXzCtuoacAhQWADehYDfNsyacSQL5wgOl1k50MFN09qZ+O451cvgrr7qYS9SlTSta+o8hliCxSlNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RDiaz\\Desktop\\Aproximacion_laboral\\IFTS24\\Gestion_productos\\Gestion_productos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RDiaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RDiaz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RDiaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RDiaz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
