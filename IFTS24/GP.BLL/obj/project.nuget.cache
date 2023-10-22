@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1f1OW6+UeDN/lI1gEWiyacEBg4SMzW2CRG5IcK+xx+83WSlThYT2kv9tfR7eeYw0S5h8Rechi23+H/F9Cd/1dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RDiaz\\Desktop\\Aproximacion_laboral\\IFTS24\\GP.BLL\\GP.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RDiaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RDiaz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RDiaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

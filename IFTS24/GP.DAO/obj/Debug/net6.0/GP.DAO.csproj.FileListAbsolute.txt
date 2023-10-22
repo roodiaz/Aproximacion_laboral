@@ -1,0 +1,15 @@
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\bin\Debug\net6.0\GP.DAO.deps.json
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\bin\Debug\net6.0\GP.DAO.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\bin\Debug\net6.0\GP.DAO.pdb
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\bin\Debug\net6.0\GP.BE.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\bin\Debug\net6.0\GP.BE.pdb
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\obj\Debug\net6.0\GP.DAO.csproj.AssemblyReference.cache
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\obj\Debug\net6.0\GP.DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\obj\Debug\net6.0\GP.DAO.AssemblyInfoInputs.cache
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\obj\Debug\net6.0\GP.DAO.AssemblyInfo.cs
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\obj\Debug\net6.0\GP.DAO.csproj.CoreCompileInputs.cache
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\obj\Debug\net6.0\GP.DAO.csproj.CopyComplete
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\obj\Debug\net6.0\GP.DAO.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\obj\Debug\net6.0\refint\GP.DAO.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\obj\Debug\net6.0\GP.DAO.pdb
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.DAO\obj\Debug\net6.0\ref\GP.DAO.dll

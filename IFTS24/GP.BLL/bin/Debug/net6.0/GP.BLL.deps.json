@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GP.BLL/1.0.0": {
+        "dependencies": {
+          "GP.BE": "1.0.0",
+          "GP.DAO": "1.0.0"
+        },
+        "runtime": {
+          "GP.BLL.dll": {}
+        }
+      },
+      "GP.BE/1.0.0": {
+        "runtime": {
+          "GP.BE.dll": {}
+        }
+      },
+      "GP.DAO/1.0.0": {
+        "dependencies": {
+          "GP.BE": "1.0.0"
+        },
+        "runtime": {
+          "GP.DAO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GP.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GP.BE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GP.DAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

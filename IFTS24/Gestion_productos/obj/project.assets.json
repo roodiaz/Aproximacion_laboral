@@ -11,6 +11,33 @@
         "runtime": {
           "bin/placeholder/GP.BE.dll": {}
         }
+      },
+      "GP.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GP.BE": "1.0.0",
+          "GP.DAO": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GP.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GP.BLL.dll": {}
+        }
+      },
+      "GP.DAO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GP.BE": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GP.DAO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GP.DAO.dll": {}
+        }
       }
     }
   },
@@ -19,11 +46,23 @@
       "type": "project",
       "path": "../GP.BE/GP.BE.csproj",
       "msbuildProject": "../GP.BE/GP.BE.csproj"
+    },
+    "GP.BLL/1.0.0": {
+      "type": "project",
+      "path": "../GP.BLL/GP.BLL.csproj",
+      "msbuildProject": "../GP.BLL/GP.BLL.csproj"
+    },
+    "GP.DAO/1.0.0": {
+      "type": "project",
+      "path": "../GP.DAO/GP.DAO.csproj",
+      "msbuildProject": "../GP.DAO/GP.DAO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "GP.BE >= 1.0.0"
+      "GP.BE >= 1.0.0",
+      "GP.BLL >= 1.0.0",
+      "GP.DAO >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -60,6 +99,12 @@
           "projectReferences": {
             "C:\\Users\\RDiaz\\Desktop\\Aproximacion_laboral\\IFTS24\\GP.BE\\GP.BE.csproj": {
               "projectPath": "C:\\Users\\RDiaz\\Desktop\\Aproximacion_laboral\\IFTS24\\GP.BE\\GP.BE.csproj"
+            },
+            "C:\\Users\\RDiaz\\Desktop\\Aproximacion_laboral\\IFTS24\\GP.BLL\\GP.BLL.csproj": {
+              "projectPath": "C:\\Users\\RDiaz\\Desktop\\Aproximacion_laboral\\IFTS24\\GP.BLL\\GP.BLL.csproj"
+            },
+            "C:\\Users\\RDiaz\\Desktop\\Aproximacion_laboral\\IFTS24\\GP.DAO\\GP.DAO.csproj": {
+              "projectPath": "C:\\Users\\RDiaz\\Desktop\\Aproximacion_laboral\\IFTS24\\GP.DAO\\GP.DAO.csproj"
             }
           }
         }

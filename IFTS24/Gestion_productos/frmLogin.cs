@@ -1,32 +1,31 @@
 using System;
 using System.Windows.Forms;
 using GP.BE;
+using GP.BLL;
+using GP.DAO;
 
 namespace Gestion_productos
 {
     public partial class frmLogin : Form
     {
-        private Login users = new Login();
-
         public frmLogin()
         {
             InitializeComponent();
 
             this.AcceptButton = this.btnLogin;
 
-            var usersToAdd = new List<User>
+            var usersToAdd = new List<Usuario>
             {
-                new User("Pass.001", "Alexander"),
-                new User("Pass.001", "Rocio"),
-                new User("Pass.001", "Hugo"),
-                new User("Pass.001", "Leo"),
-                new User("Pass.001", "Marcos"),
-                new User("Pass.001", "Lisset"),
-                new User("Pass.001", "Michelle")
+                new Usuario(1,"Pass.001", "Alexander"),
+                new Usuario(2,"Pass.001", "Rocio"),
+                new Usuario(3,"Pass.001", "Hugo"),
+                new Usuario(4,"Pass.001", "Leo"),
+                new Usuario(5,"Pass.001", "Marcos"),
+                new Usuario(6,"Pass.001", "Lisset"),
+                new Usuario(7,"Pass.001", "Michelle")
             };
 
-            this.users.UserList.AddRange(usersToAdd);
-
+            UsuariosDao.Usuarios.AddRange(usersToAdd);
         }
 
         /// <summary>
@@ -60,27 +59,20 @@ namespace Gestion_productos
                 return;
             }
 
-            var validUserName = this.users.ValidateUserName(userName);
-            var validPassword = this.users.ValidatePassword(password);
+            var logeoValido = Validaciones.ValidarLogin(password, userName);
 
-            if (validUserName == 0 && validPassword == 0)
+            if (logeoValido == 0)
             {
                 var frmCliente = new frmClientes(this);
                 frmCliente.FormClosed += (s, args) => this.Close(); //TODO revisar porque no cierra formulario de login
                 frmCliente.Show();
             }
-            else if (validUserName == 1)
-            {
-                MessageBox.Show("UserName incorrecto", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
-            else if (validPassword == 1)
-            {
+            else if (logeoValido == 1)
+                MessageBox.Show("Usuario inexistante", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            else if (logeoValido == 2)
                 MessageBox.Show("Password incorrecto", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
             else
-            {
                 MessageBox.Show("Error en el logeo", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
         }
     }
 }

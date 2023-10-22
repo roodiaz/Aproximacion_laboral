@@ -1,0 +1,17 @@
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\bin\Debug\net6.0\GP.BLL.deps.json
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\bin\Debug\net6.0\GP.BLL.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\bin\Debug\net6.0\GP.BLL.pdb
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\bin\Debug\net6.0\GP.BE.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\bin\Debug\net6.0\GP.BE.pdb
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\obj\Debug\net6.0\GP.BLL.csproj.AssemblyReference.cache
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\obj\Debug\net6.0\GP.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\obj\Debug\net6.0\GP.BLL.AssemblyInfoInputs.cache
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\obj\Debug\net6.0\GP.BLL.AssemblyInfo.cs
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\obj\Debug\net6.0\GP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\obj\Debug\net6.0\GP.BLL.csproj.CopyComplete
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\obj\Debug\net6.0\GP.BLL.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\obj\Debug\net6.0\refint\GP.BLL.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\obj\Debug\net6.0\GP.BLL.pdb
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\obj\Debug\net6.0\ref\GP.BLL.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\bin\Debug\net6.0\GP.DAO.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\GP.BLL\bin\Debug\net6.0\GP.DAO.pdb

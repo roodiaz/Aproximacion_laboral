@@ -10,6 +10,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GP.BE\GP.BE.csproj" />
+    <ProjectReference Include="..\GP.BLL\GP.BLL.csproj" />
+    <ProjectReference Include="..\GP.DAO\GP.DAO.csproj" />
   </ItemGroup>
 
   <ItemGroup>

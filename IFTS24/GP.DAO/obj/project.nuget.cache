@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWQ9v0XRnciSIPUeyJG+ADfxtOAfqNXi7GuDYzAWoI4xuFmERl62KVQSeoYbDGUjLBJ9w5ZNE/udzPKVp+7kOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RDiaz\\Desktop\\Aproximacion_laboral\\IFTS24\\GP.DAO\\GP.DAO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RDiaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RDiaz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\RDiaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

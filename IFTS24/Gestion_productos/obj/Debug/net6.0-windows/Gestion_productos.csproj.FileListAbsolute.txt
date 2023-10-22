@@ -20,3 +20,7 @@ C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\Gestion_productos\obj\Debug\n
 C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\Gestion_productos\obj\Debug\net6.0-windows\Gestion_productos.pdb
 C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\Gestion_productos\obj\Debug\net6.0-windows\Gestion_productos.genruntimeconfig.cache
 C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\Gestion_productos\obj\Debug\net6.0-windows\ref\Gestion_productos.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\Gestion_productos\bin\Debug\net6.0-windows\GP.BLL.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\Gestion_productos\bin\Debug\net6.0-windows\GP.DAO.dll
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\Gestion_productos\bin\Debug\net6.0-windows\GP.BLL.pdb
+C:\Users\RDiaz\Desktop\Aproximacion_laboral\IFTS24\Gestion_productos\bin\Debug\net6.0-windows\GP.DAO.pdb

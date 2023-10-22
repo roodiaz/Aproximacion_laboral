@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v6.0": {
       "Gestion_productos/1.0.0": {
         "dependencies": {
-          "GP.BE": "1.0.0"
+          "GP.BE": "1.0.0",
+          "GP.BLL": "1.0.0",
+          "GP.DAO": "1.0.0"
         },
         "runtime": {
           "Gestion_productos.dll": {}
@@ -17,6 +19,23 @@
       "GP.BE/1.0.0": {
         "runtime": {
           "GP.BE.dll": {}
+        }
+      },
+      "GP.BLL/1.0.0": {
+        "dependencies": {
+          "GP.BE": "1.0.0",
+          "GP.DAO": "1.0.0"
+        },
+        "runtime": {
+          "GP.BLL.dll": {}
+        }
+      },
+      "GP.DAO/1.0.0": {
+        "dependencies": {
+          "GP.BE": "1.0.0"
+        },
+        "runtime": {
+          "GP.DAO.dll": {}
         }
       }
     }
@@ -28,6 +47,16 @@
       "sha512": ""
     },
     "GP.BE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GP.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GP.DAO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
